@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "chartview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppPear/ChartView",
+      "state" : {
+        "revision" : "caa75ecbc0d68f2b50d714909566406f80214186",
+        "version" : "2.0.0-beta.2"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FluidGroup/swift-collections.git",
+      "state" : {
+        "revision" : "939cfd25234472b4dc91c3caeab304d15bca9a73",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
